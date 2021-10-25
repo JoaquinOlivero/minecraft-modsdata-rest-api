@@ -1,0 +1,2796 @@
+[
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2591/87/fencejumper-1.12-1.0.5.jar",
+                "modid": "fencejumper",
+                "name": "Fence Jumper",
+                "description": "Easily jump over fences",
+                "version": "1.12-1.0.5",
+                "mcversion": "1.10.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "p455w0rd aka TheRealp455w0rd"
+                ],
+                "credits": "p455w0rd",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "fencejumper",
+                "name": "Fence Jumper",
+                "version": "1.0.5",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "1.12",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar",
+                "modid": "morpheus",
+                "name": "Morpheus",
+                "description": "Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate.",
+                "version": "1.12.2-3.5.106",
+                "mcversion": "",
+                "url": "http://www.curse.com/mc-mods/Minecraft/morpheus",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Quetzi"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "forge"
+                ],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": false,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "morpheus",
+                "name": "Morpheus",
+                "version": "1.12.2-3.5.106",
+                "dependencies": "required-after:forge@[14.23.5.2808,);",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12,1.13)",
+                "acceptableRemoteVersions": "*",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3064/35/FallingTree-1.12.2-2.4.0.jar",
+                "modid": "falling_tree",
+                "name": "Falling Tree",
+                "description": "Change the way you cut tress.",
+                "version": "2.4.0",
+                "mcversion": "1.12.2",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/falling-tree",
+                "updateUrl": "https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.12.2/update.json",
+                "updateJSON": "",
+                "authorList": [
+                    "RakSrinaNa"
+                ],
+                "credits": "",
+                "logoFile": "logo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Implementation-Title": "FallingTree",
+            "Implementation-Version": "2.4.0",
+            "Specification-Vendor": "RakSrinaNa",
+            "Specification-Title": "falling_tree",
+            "Implementation-Timestamp": "2020-09-24T20",
+            "Specification-Version": "0.2",
+            "Implementation-Vendor": "RakSrinaNa"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": false,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "falling_tree",
+                "name": "",
+                "version": "",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2763/197/reap-1.5.3.jar",
+                "modid": "reap",
+                "name": "Reap Mod",
+                "description": "Reap Mod",
+                "version": "1.5.3",
+                "mcversion": "1.12.2",
+                "url": "http://maxhenkel.de/",
+                "updateUrl": "http://maxhenkel.de/update/reap.json",
+                "updateJSON": "",
+                "authorList": [
+                    "Max Henkel"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [
+            {
+                "modid": "reap",
+                "authors": "Max Henkel",
+                "version": "1.10.1",
+                "displayName": "Reap Mod",
+                "description": "Harvest crops by right-clicking",
+                "displayURL": "https://www.curseforge.com/minecraft/mc-mods/reap-mod",
+                "updateJSONURL": "http://maxhenkel.de/update/reap.json",
+                "dependencies": [
+                    {
+                        "modId": "forge",
+                        "mandatory": true,
+                        "versionRange": "[28,)",
+                        "ordering": "NONE",
+                        "side": "BOTH"
+                    },
+                    {
+                        "modId": "minecraft",
+                        "mandatory": true,
+                        "versionRange": "[1.14.4]",
+                        "ordering": "NONE",
+                        "side": "BOTH"
+                    }
+                ],
+                "logoFile": "",
+                "credits": "",
+                "loaderVersion": "[28,)",
+                "modLoader": "javafml",
+                "issueTrackerURL": "https://www.curseforge.com/minecraft/mc-mods/reap-mod/issues"
+            }
+        ],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": false,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "reap",
+                "name": "",
+                "version": "1.5.3",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "updateJSON": "http://maxhenkel.de/update/reap.json"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2865/90/walljump-1.12.2-1.3.2.jar",
+                "modid": "walljump",
+                "name": "Wall-Jump!",
+                "description": "Jump from wall to wall! Jump near a wall and hold the wall jump key (LSHIFT). Then while wall clinging, keep holding W and let go of LSHIFT to wall jump.",
+                "version": "1.12.2-1.3.2",
+                "mcversion": "1.12.2",
+                "url": "http://minecraft.curseforge.com/projects/wall-jump",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "genandnic"
+                ],
+                "credits": "",
+                "logoFile": "walljump.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "walljump",
+                "name": "Wall-Jump!",
+                "version": "1.3.2",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12,1.12.2]",
+                "acceptableRemoteVersions": "[1.3.2,)",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2908/141/SeedsForWizardry%2B1.0%2BFor%2BMC%2BForge%2B1.12.2.jar",
+                "modid": "t3s4ebw",
+                "name": "Seeds For Electroblob's Wizardry",
+                "description": "Adds a seed that will produce a crop which yields magic crystals.",
+                "version": "1.0",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "TheTornadoTitan"
+                ],
+                "credits": "The Forge and FML guys | Electroblob",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": false,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "t3s4ebw",
+                "name": "Seeds For Electroblob's Wizardry",
+                "version": "1.0",
+                "dependencies": "required-after:ebwizardry@[4.1.1,]",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "1.12.2",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar",
+                "modid": "appleskin",
+                "name": "AppleSkin",
+                "description": "Adds various food-related HUD improvements",
+                "version": "1.0.14",
+                "mcversion": "1.12",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "squeek"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "appleskin",
+                "name": "",
+                "version": "1.0.14",
+                "dependencies": "after:jei@[4.6.0,); required-after:forge@[14.21.0,); after:applecore@[2.2.0,)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12]",
+                "acceptableRemoteVersions": "*",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "squeek.appleskin.client.gui.GuiFactory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3111/532/AdFinders-1.12.2-2.3.17.0-build.0559.jar",
+                "modid": "adfinders",
+                "name": "Advanced Finders",
+                "description": "A bunch of new finders that make the mining process much more interesting and time-saving.",
+                "version": "1.12.2-2.3.17.0",
+                "mcversion": "1.12.2",
+                "url": "http://minecraft.curseforge.com/projects/advanced-finders",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "EnderLanky"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "ForgeEndertech"
+                ],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "adfinders",
+                "name": "Advanced Finders",
+                "version": "1.12.2-2.3.17.0",
+                "dependencies": "required-after:forgeendertech@[1.12.2-4.5.4.0,);after:*",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3169/485/PlayerRevive_v1.2.40_mc1.12.2.jar",
+                "modid": "playerrevive",
+                "name": "Player Revive",
+                "description": "",
+                "version": "",
+                "mcversion": "${mcversion}",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "CreativeMD"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "creativecore"
+                ],
+                "dependants": []
+            }
+        ],
+        "manifest": {},
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "playerrevive",
+                "name": "Player Revive",
+                "version": "1.0",
+                "dependencies": "required-after:creativecore",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "com.creativemd.playerrevive.PlayerReviveSettings"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3104/696/useful_backpacks-1.12.2-1.5.4.85.jar",
+                "modid": "usefulbackpacks",
+                "name": "Useful Backpacks",
+                "description": "This mod adds cool new backpacks to your game.",
+                "version": "1.5.4.85",
+                "mcversion": "1.12.2",
+                "url": "https://u-team.info/mod/usefulbackpacks",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "HyCraftHD"
+                ],
+                "credits": "Team U-Team",
+                "logoFile": "assets/usefulbackpacks/logo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Implementation-Title": "Useful Backpacks",
+            "Implementation-Version": "1.5.4.85",
+            "Built-On": "1.12.2"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "usefulbackpacks",
+                "name": "Useful Backpacks",
+                "version": "1.5.4.85",
+                "dependencies": "required:forge@[14.23.5.2768,);required-after:uteamcore@[2.2.5.147,);",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "1.12.2",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "updateJSON": "https://api.u-team.info/update/usefulbackpacks.json"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2845/365/ElevatorMod-1.12.2-1.3.14.jar",
+                "modid": "elevatorid",
+                "name": "Elevator Mod",
+                "description": "OpenBlocks' Elevator Block",
+                "version": "1.12.2-1.3.14",
+                "mcversion": "1.12.2",
+                "url": "https://minecraft.curseforge.com/projects/openblocks-elevator",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "VsnGamer"
+                ],
+                "credits": "OpenBlocks Team",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": false,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "elevatorid",
+                "name": "Elevator Mod",
+                "version": "1.3.14",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2722/385/TrashSlot_1.12.2-8.4.10.jar",
+                "modid": "trashslot",
+                "name": "TrashSlot",
+                "description": "",
+                "version": "8.4.10",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "BlayTheNinth"
+                ],
+                "credits": "BlayTheNinth",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "trashslot_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "trashslot",
+                "name": "TrashSlot",
+                "version": "",
+                "dependencies": "required-after:forge@[13.19.0.2162,)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12]",
+                "acceptableRemoteVersions": "*",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "net.blay09.mods.trashslot.client.gui.GuiFactory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar",
+                "modid": "baubles",
+                "name": "Baubles",
+                "description": "Adding a touch of bling to Minecraft",
+                "version": "1.12-1.5.2",
+                "mcversion": "1.12",
+                "url": "http://www.minecraftforum.net/topic/2535073-baubles",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Azanor"
+                ],
+                "credits": "Special thanks to chicken_bones",
+                "logoFile": "BLogo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "baubles",
+                "name": "Baubles",
+                "version": "1.5.2",
+                "dependencies": "required-after:forge@[14.21.0.2348,);",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "baubles.client.gui.BaublesGuiFactory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3271/178/carryon-1.12.2-1.12.4.16.jar",
+                "modid": "carryon",
+                "name": "Carry On",
+                "description": "Carry On is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities using only their empty hands.",
+                "version": "1.12.3",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/5115328bf7c35d5c5cea64bdb58becd2ca17fcac/update.json",
+                "updateJSON": "",
+                "authorList": [
+                    "Tschipp, Purplicious_Cow, cy4n"
+                ],
+                "credits": "Tschipp, Purplicious_Cow, cy4n",
+                "logoFile": "assets/carryon/logo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Name": "tschipp/carryon/common/config/Configs$WhiteList.class",
+            "SHA-256-Digest": "OZvaUpvKpzj0HMYGFJYU6y4t//oCeNO8RgH2g/ir4dw="
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "carryon",
+                "name": "Carry On",
+                "version": "1.12.3",
+                "dependencies": "required-after:forge@[13.20.1.2386,);after:gamestages;",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2,1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "tschipp.carryon.client.gui.GuiFactoryCarryOn",
+                "updateJSON": "https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/",
+                "certificateFingerprint": "fd21553434f4905f2f73ea7838147ac4ea07bd88"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3051/236/torchmaster_1.12.2-1.8.4.84.jar",
+                "modid": "torchmaster",
+                "name": "TorchMaster",
+                "description": "Adds a special torch which prevents mobs from spawning in a configurable range",
+                "version": "1.8.4.84",
+                "mcversion": "[1.12,1.13)",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "xalcon"
+                ],
+                "credits": "The Forge and FML guys for creating forge, RWTema for the 'Magnum Torch' idea",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "required-after:forge@[14.21.0.2338,)"
+                ],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Name": "assets/torchmaster/textures/blocks/mega_torch_top.png",
+            "SHA-256-Digest": "BEEdXYHG7pNTvmH/Fbqg7lGCt/tInYn+YY0pbtzKDoQ="
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "torchmaster",
+                "name": "",
+                "version": "1.8.4.84",
+                "dependencies": "required-after:forge@[14.21.1.2394,)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12, 1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "certificateFingerprint": "5e9a436b366831c8f54a7e80b015784da69278c6"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2880/613/comforts-1.12.2-1.4.1.3.jar",
+                "modid": "comforts",
+                "name": "Comforts",
+                "description": "Adds sleeping bags and hammocks for portability and daytime napping without setting a new spawn. Comes in 16 different colors!",
+                "version": "1.12.2-1.4.1.3",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "C4"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Name": "assets/comforts/textures/blocks/sleeping_bag/feet_end.png",
+            "SHA-256-Digest": "5+dXUCB9kAKjpataNXDC3FBe944BQdz4Xu/WjRLnP0c="
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "comforts",
+                "name": "Comforts",
+                "version": "1.4.1.3",
+                "dependencies": "required-after:forge@[14.23.5.2776,);after:morpheus;after:toughasnails",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12, 1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "certificateFingerprint": "2484ef4d131fdc0dca0647aa21b7b944ddb935a1"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar",
+                "modid": "ctm",
+                "name": "CTM",
+                "description": "Allows resource packs to add connected textures, emissive rendering, and much more.",
+                "version": "MC1.12.2-1.0.2.31",
+                "mcversion": "1.12.2",
+                "url": "https://minecraft.curseforge.com/projects/ctm",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "tterrag",
+                    "Drullkus",
+                    "minecreatr"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLCorePluginContainsFMLMod": "true",
+            "FMLAT": "ctm_at.cfg",
+            "FMLCorePlugin": "team.chisel.ctm.client.asm.CTMCorePlugin"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "ctm",
+                "name": "CTM",
+                "version": "MC1.12.2-1.0.2.31",
+                "dependencies": "before:chisel;after:forge@[14.23.5.2807,)",
+                "useMetadata": true,
+                "clientSideOnly": true,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3127/288/Artifacts-1.12.2-1.2.3.jar",
+                "modid": "artifacts",
+                "name": "Artifacts",
+                "description": "More exploration fun!",
+                "version": "1.12.2-1.2.3",
+                "mcversion": "1.12.2",
+                "url": "https://github.com/ochotonida/artifacts",
+                "updateUrl": "https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json",
+                "updateJSON": "",
+                "authorList": [
+                    "ochotonida"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "artifacts",
+                "name": "Artifacts",
+                "version": "1.12.2-1.2.3",
+                "dependencies": "required-after:baubles;after:artemislib",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "updateJSON": "https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3406/677/emoticons-1.0.1-1.12.2-dist.jar",
+                "modid": "emoticons",
+                "name": "Emoticons",
+                "description": "Custom player animation with bends and emotes",
+                "version": "1.0.1-1.12.2",
+                "mcversion": "1.12.2",
+                "url": "https://mchorse.github.io/emoticons/",
+                "updateUrl": "https://raw.githubusercontent.com/mchorse/emoticons/master/version.json",
+                "updateJSON": "",
+                "authorList": [
+                    "mchorse"
+                ],
+                "credits": "Andruxioid for testing, giving ideas and Russian translation!",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "emoticons",
+                "name": "Emoticons",
+                "version": "1.0.1",
+                "dependencies": "required-after:mclib@[2.3,);after:metamorph@[1.2.7,);",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "updateJSON": "https://raw.githubusercontent.com/mchorse/emoticons/master/version.json"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2873/110/u_team_core-1.12.2-2.2.5.147.jar",
+                "modid": "uteamcore",
+                "name": "U Team Core",
+                "description": "This libary contains many useful modding stuff!",
+                "version": "2.2.5.147",
+                "mcversion": "1.12.2",
+                "url": "https://u-team.info",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "HyCraftHD",
+                    "MrTroble"
+                ],
+                "credits": "Team U-Team",
+                "logoFile": "assets/uteamcore/logo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Implementation-Title": "U Team Core",
+            "Implementation-Version": "2.2.5.147",
+            "FMLAT": "uteamcore_at.cfg",
+            "Built-On": "1.12.2"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "uteamcore",
+                "name": "UTeam Core",
+                "version": "2.2.5.147",
+                "dependencies": "required:forge@[14.23.5.2768,)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "1.12.2",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "updateJSON": "https://api.u-team.info/update/uteamcore.json"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar",
+                "modid": "waila",
+                "name": "Waila",
+                "description": "You are using Hwyla, a fork of Waila. You can find more information on the Hwyla CurseForge page.",
+                "version": "1.8.26",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "ProfMobius",
+                    "TehNut"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "waila",
+                "name": "Waila",
+                "version": "1.8.26",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "*",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "mcp.mobius.waila.gui.ConfigGuiFactory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3168/422/chococraft_1.12.2-0.9.9.0.jar",
+                "modid": "chococraft",
+                "name": "Chococraft 3",
+                "description": "Chocobos in Minecraft",
+                "version": "0.9.9.0",
+                "mcversion": "[1.12,1.13)",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Xalcon",
+                    "Slayer5934",
+                    "balika011"
+                ],
+                "credits": "Thanks to EddieV for the original Chococraft, ArnoSaxena(Torojimas) and clienthax for maintaining it",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "chococraft_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "chococraft",
+                "name": "",
+                "version": "0.9.9.0",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12,1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2851/111/SilentLib-1.12.2-3.0.14%2B168.jar",
+                "modid": "SilentLib",
+                "name": "Silent Lib",
+                "description": "Shared library for SilentChaos512's mods.",
+                "version": "3.0.14",
+                "mcversion": "1.12.2",
+                "url": "https://minecraft.curseforge.com/projects/silent-lib",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "silentlib",
+                "name": "Silent Lib",
+                "version": "3.0.13",
+                "dependencies": "required-after:forge@[14.23.3.2669,);",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2526/674/malisisdoors-1.12.2-7.3.0.jar",
+                "modid": "malisisdoors",
+                "name": "MalisisDoors",
+                "description": "Better doors!",
+                "version": "1.12.2-7.3.0",
+                "mcversion": "1.12.2",
+                "url": "http://github.com/Ordinastie/MalisisDoors",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [],
+                "credits": "",
+                "logoFile": "malisisdoors.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Built-By": "Ordinastie",
+            "Created-By": "25.112-b15 (Oracle Corporation)",
+            "Implementation-Title": "MalisisDoors",
+            "Implementation-Version": "1.12.2-7.3.0",
+            "Implementation-Vendor": "http"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "malisisdoors",
+                "name": "Malisis' Doors",
+                "version": "1.12.2-7.3.0",
+                "dependencies": "required-after:malisiscore",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12, 1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3137/504/ForgeEndertech-1.12.2-4.5.5.0-build.0561.jar",
+                "modid": "forgeendertech",
+                "name": "Forge Endertech",
+                "description": "Contains all shared classes for Endertech mods.",
+                "version": "1.12.2-4.5.5.0",
+                "mcversion": "1.12.2",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/forgeendertech",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "EnderLanky"
+                ],
+                "credits": "",
+                "logoFile": "logo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "Forge"
+                ],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLCorePluginContainsFMLMod": "true",
+            "FMLCorePlugin": "com.endertech.minecraft.forge.coremod.CorePlugin"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "forgeendertech",
+                "name": "Forge Endertech",
+                "version": "1.12.2-4.5.5.0",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "com.endertech.minecraft.forge.Config$Factory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3441/670/mclib-2.3.4-1.12.2.jar",
+                "modid": "mclib",
+                "name": "McLib",
+                "description": "McHorse's library mod",
+                "version": "2.3.4-1.12.2",
+                "mcversion": "1.12.2",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib/",
+                "updateUrl": "",
+                "updateJSON": "https://raw.githubusercontent.com/mchorse/mclib/1.12/version.json",
+                "authorList": [
+                    "mchorse"
+                ],
+                "credits": "Ernio for networking code I still use to this day!",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLCorePluginContainsFMLMod": "true",
+            "FMLCorePlugin": "mchorse.mclib.core.McLibCM"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "mclib",
+                "name": "McLib",
+                "version": "2.3.4",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "updateJSON": "https://raw.githubusercontent.com/mchorse/mclib/1.12/version.json"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar",
+                "modid": "jei",
+                "name": "Just Enough Items",
+                "description": "Simple recipe and item helper.",
+                "version": "4.16.1.302",
+                "mcversion": "1.12.2",
+                "url": "https://github.com/mezz/JustEnoughItems",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "mezz"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "jei_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "jei",
+                "name": "Just Enough Items",
+                "version": "4.16.1.302",
+                "dependencies": "required-after:forge@[14.23.5.2816,);",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2,1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "mezz.jei.config.JEIModGuiFactory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3355/108/ModularVoiceChat-1.1.1.jar",
+                "modid": "modularvc",
+                "name": "ModularVoiceChat",
+                "description": "A flexible and modulable VoiceChat mod and API.",
+                "version": "1.1.1",
+                "mcversion": "1.12.2",
+                "url": "https://discord.gg/kSu7eFE",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Nathanael2611"
+                ],
+                "credits": "This mod was developped by Nathanael2611.",
+                "logoFile": "/assets/logo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "modularvc",
+                "name": "ModularVoiceChat",
+                "version": "",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+                "modid": "codechickenlib",
+                "name": "CodeChicken Lib",
+                "description": "CodeChickenLib is a library of systems to help make various aspects of minecraft modding easier. It contains libraries for 3D math and transformations, model rendering, packets, config, colours, asm and a few other things..",
+                "version": "3.2.3.358",
+                "mcversion": "1.12.2",
+                "url": "http://chickenbones.net/Pages/links.html",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "ChickenBones",
+                    "covers1624"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "ccl_at.cfg",
+            "Name": "codechicken/lib/world/WorldExtensionManager$WorldExtensionEventH",
+            "SHA-256-Digest": "xoMxQTJwF9eKdZWk05DsvzFBwZqpp46iKjNsDq6TxCk="
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "codechickenlib",
+                "name": "CodeChicken Lib",
+                "version": "",
+                "dependencies": "required-after:forge@[14.23.4.2718,)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "certificateFingerprint": "f1850c39b2516232a2108a7bd84d1cb5df93b261",
+                "updateJSON": "http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar",
+                "modid": "roguelike",
+                "name": "Roguelike Dungeons",
+                "description": "Adds randomized dungeons to the world",
+                "version": "1.12.2-1.8.0",
+                "mcversion": "1.12.2",
+                "url": "github.com/Greymerk/minecraft-roguelike",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Greymerk"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": false,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "roguelike",
+                "name": "Roguelike Dungeons",
+                "version": "1.8.0",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "*",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3431/492/tombstone-1.12.2-4.4.7.jar",
+                "modid": "tombstone",
+                "name": "Corail Tombstone",
+                "description": "Tombstone is a grave's mod with lots of features on death and teleportation, in a medieval fantasy atmosphere related to the grave's souls.",
+                "version": "4.4.7",
+                "mcversion": "1.12.2",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
+                "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/files",
+                "updateJSON": "",
+                "authorList": [
+                    "Corail31"
+                ],
+                "credits": "Special thanks to Gegy1000, Barteks2X, Runemoro, Paul Fulham, Darkhax and Raycoms",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "tombstone_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "tombstone",
+                "name": "Corail Tombstone",
+                "version": "4.4.7",
+                "dependencies": "required-after:forge@[14.23.5.2838,);before:erebus;before:enderio;before:forgeessentials;before:quark;before:advanced-fishing",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2,1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "updateJSON": "https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3437/866/CreativeCore_v1.10.63_mc1.12.2.jar",
+                "modid": "creativecore",
+                "name": "CreativeCore",
+                "description": "A core mod required by the most mods of CreativeMD. Contains a packets system, gui-api and other utils.",
+                "version": "1.10",
+                "mcversion": "${mcversion}",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "CreativeMD",
+                    "N247S"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLCorePlugin": "com.creativemd.creativecore.core.CreativePatchingLoader",
+            "FMLCorePluginContainsFMLMod": "com.creativemd.creativecore.CreativeCore",
+            "Created-By": "1.7.0 (Oracle Corporation)"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "creativecore",
+                "name": "CreativeCore",
+                "version": "1.10.0",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "com.creativemd.creativecore.client.CreativeCoreSettings"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2761/319/Reliquary-1.12.2-1.3.4.796.jar",
+                "modid": "xreliquary",
+                "name": "Reliquary",
+                "description": "Two words: magical swag. Oh, and a gun.",
+                "version": "1.12.2-1.3.4.796",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "x3n0ph0b3",
+                    "TheMike",
+                    "P3pp3rF1y"
+                ],
+                "credits": "Originally made by x3n0ph0b3 and TheMike, now maintained by P3pp3rF1y.",
+                "logoFile": "/mods/xreliquary/textures/logo/xrlogo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "xreliquary",
+                "name": "Reliquary",
+                "version": "1.12.2-1.3.4.796",
+                "dependencies": "after:baubles;after:enderio;after:tconstruct",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3107/974/rustic-1.1.7.jar",
+                "modid": "rustic",
+                "name": "Rustic",
+                "description": "A medieval themed Minecraft mod based around decoration, exploration, and agriculture.",
+                "version": "1.1.7",
+                "mcversion": "1.12.2",
+                "url": "https://github.com/the-realest-stu/Rustic",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "the-realest-stu"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "rustic",
+                "name": "Rustic",
+                "version": "1.1.7",
+                "dependencies": "after:dynamictrees@[1.12.2-0.9.1e,);after:dynamictreesbop;before:dynamictreestc",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2830/501/VariedCommodities_1.12.2(21nov19).jar",
+                "modid": "variedcommodities",
+                "name": "Varied Commodities",
+                "description": "Varied blocks and items with different functionalities",
+                "version": "1.0",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Noppes"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "variedcommodities",
+                "name": "VariedCommodities",
+                "version": "1.12.2",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "1.12, 1.12.1, 1.12.2",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3413/19/%5b1.12.2%5d+SecurityCraft+v1.8.23.2.jar",
+                "modid": "securitycraft",
+                "name": "SecurityCraft",
+                "description": "Adds a load of things to keep your house safe with and defend yourself from attackers.",
+                "version": "v1.8.23.2",
+                "mcversion": "1.12.2",
+                "url": "https://discord.gg/U8DvBAW",
+                "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/security-craft/files/all",
+                "updateJSON": "",
+                "authorList": [
+                    "Geforce",
+                    "bl4ckscor3",
+                    "Redstone_Dubstep"
+                ],
+                "credits": "Thanks to all of you guys for your support!",
+                "logoFile": "/scLogo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "securitycraft_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "securitycraft",
+                "name": "SecurityCraft",
+                "version": "",
+                "dependencies": "required-after:forge@[14.23.5.2826,)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "updateJSON": "https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar",
+                "modid": "openblocks",
+                "name": "OpenBlocks",
+                "description": "All the things you never thought you will ever need",
+                "version": "1.8.1",
+                "mcversion": "1.12.2",
+                "url": "http://openmods.info/",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Mikee",
+                    "NeverCast",
+                    "boq",
+                    "Lyqyd"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Git-Branch": "master",
+            "Jenkins-Build": "true",
+            "Jenkins-ID": "845",
+            "FMLAT": "openblocks_at.cfg",
+            "Jenkins-Tag": "jenkins-OpenBlocks-845",
+            "Git-Hash": "09a3675",
+            "Name": "openblocks/client/renderer/item/ModelGlyph.class",
+            "SHA-256-Digest": "S2EzOdPmCTHsUnultPqcX9f/opv1DYQ63JLoyfV4NY0="
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "openblocks",
+                "name": "OpenBlocks",
+                "version": "1.8.1",
+                "dependencies": "required:forge@[14.23.4.2705,);required-after:openmods@[0.12.2,0.13)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "openblocks.client.ModGuiFactory",
+                "updateJSON": "http://openmods.info/versions/openblocks.json",
+                "certificateFingerprint": "d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2749/993/furniture-6.3.1-1.12.2.jar",
+                "modid": "cfm",
+                "name": "MrCrayfish's Furniture Mod",
+                "description": "Adds over 80 unique pieces of furniture to the game!",
+                "version": "6.3.1",
+                "mcversion": "1.12.2",
+                "url": "https://mrcrayfish.com/mods?id=cfm",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "MrCrayfish"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "cfm",
+                "name": "MrCrayfish's Furniture Mod",
+                "version": "6.3.1",
+                "dependencies": "after:crafttweaker",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "com.mrcrayfish.furniture.gui.GuiFactory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3194/413/future-mc-1.12.2-0.2.6.1.jar",
+                "modid": "futuremc",
+                "name": "Future MC",
+                "description": "Adds features from future updates.",
+                "version": "1.12.2-0.2.6.1",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "TheDarkColour"
+                ],
+                "credits": "Herobrine knows all.",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLCorePluginContainsFMLMod": "true",
+            "FMLAT": "futuremc_at.cfg",
+            "FMLCorePlugin": "thedarkcolour.futuremc.asm.CoreLoader"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "futuremc",
+                "name": "Future MC",
+                "version": "0.2.6",
+                "dependencies": "required-after:forgelin;required-after:forge@[14.23.5.2847,)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "net.shadowfacts.forgelin.KotlinAdapter",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2680/892/malisiscore-1.12.2-6.5.1.jar",
+                "modid": "malisiscore",
+                "name": "MalisisCore",
+                "description": "MalisisCore is a framework dedicated to simplify many processes required during a mod development.",
+                "version": "1.12.2-6.5.1-SNAPSHOT",
+                "mcversion": "1.12.2",
+                "url": "http://github.com/Ordinastie/MalisisCore",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Ordinastie",
+                    "PaleoCrafter",
+                    "AlmuraDev"
+                ],
+                "credits": "",
+                "logoFile": "malisiscore.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [
+                    "forge@14.23.5.2768"
+                ],
+                "dependencies": [
+                    "MinecraftForge"
+                ],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Implementation-Title": "jar",
+            "Implementation-Version": "1.12.2-6.5.1-SNAPSHOT",
+            "Built-By": "Ordinastie",
+            "FMLAT": "malisiscore_at.cfg",
+            "TweakClass": "org.spongepowered.asm.launch.MixinTweaker",
+            "Implementation-Vendor": "http",
+            "TweakOrder": "0",
+            "MixinConfigs": "mixins.malisiscore.core.json",
+            "FMLCorePluginContainsFMLMod": "true",
+            "ForceLoadAsMod": "true",
+            "Created-By": "25.171-b11 (Oracle Corporation)",
+            "FMLCorePlugin": "net.malisis.core.asm.MalisisCorePlugin"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "malisiscore",
+                "name": "Malisis Core",
+                "version": "1.12.2-6.5.1-SNAPSHOT",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12,1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar",
+                "modid": "customnpcs",
+                "name": "CustomNPCs",
+                "description": "The Custom Npcs mod lets you create your own npcs and lets you customize them how you want",
+                "version": "1.12",
+                "mcversion": "1.12",
+                "url": "http://tinyurl.com/customnpcs",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Noppes"
+                ],
+                "credits": "A lot of people, see the list at the forum",
+                "logoFile": "customnpcs:textures/gui/logo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "cnpcs_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "customnpcs",
+                "name": "CustomNpcs",
+                "version": "1.12",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "1.12, 1.12.1, 1.12.2",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [],
+        "manifest": {
+            "Manifest-Version": "1.0"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3189/62/ElectroblobsWizardry-4.3.4-MC1.12.2.jar",
+                "modid": "ebwizardry",
+                "name": "Electroblob's Wizardry",
+                "version": "4.3.4",
+                "dependencies": "required-after:forge@[14.23.5.2847,);after:jei@[4.15.0,);after:baubles@[1.5.2,);after:antiqueatlas@[4.6,)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "electroblob.wizardry.WizardryGuiFactory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar",
+                "modid": "extrautils2",
+                "name": "Extra Utilities 2",
+                "description": "A bunch of useful things.",
+                "version": "${version}",
+                "mcversion": "${mcversion}",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "RWTema"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "extrautils2_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "extrautils2",
+                "name": "",
+                "version": "1.0",
+                "dependencies": "after:tconstruct",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12,1.12.1]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "chisel_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2915/375/Chisel-MC1.12.2-1.0.2.45.jar",
+                "modid": "chisel",
+                "name": "Chisel",
+                "version": "MC1.12.2-1.0.2.45",
+                "dependencies": "required-after:forge@[14.23.5.2806,);required-after-client:ctm@[MC1.12.2-1.0.2.31,);after:jei@[4.12.0,5)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2, 1.13)",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2699/55/OpenModsLib-1.12.2-0.12.2.jar",
+                "modid": "openmods",
+                "name": "OpenModsLib",
+                "description": "Boring stuff for all that silly Open* mods",
+                "version": "0.12.2",
+                "mcversion": "1.12.2",
+                "url": "https://openmods.info/",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "Mikee",
+                    "NeverCast",
+                    "boq",
+                    "Lyqyd"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Git-Branch": "master",
+            "Jenkins-Build": "true",
+            "Jenkins-ID": "524",
+            "FMLCorePluginContainsFMLMod": "true",
+            "Jenkins-Tag": "jenkins-OpenModsLib-524",
+            "Git-Hash": "9d7ebad",
+            "FMLCorePlugin": "openmods.core.OpenModsCorePlugin",
+            "Name": "info/openmods/calc/types/multi/TypedValueCalculatorFactory$62.cl",
+            "SHA-256-Digest": "Ze9DnxbHzmoX6wygKuwDh9V5JaQX1j/vr5ZRXo39KbY="
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "openmods",
+                "name": "openmods",
+                "version": "0.12.2",
+                "dependencies": "required:forge@[14.23.4.2705,);required-after:openmodscore",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "openmods.GuiFactory",
+                "updateJSON": "http://openmods.info/versions/openmodslib.json",
+                "certificateFingerprint": "d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar",
+                "modid": "journeymap",
+                "name": "JourneyMap",
+                "description": "JourneyMap: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.12-1.4. Built: 2020-03-29-16:08:52.",
+                "version": "1.12.2-5.7.1",
+                "mcversion": "1.12.2",
+                "url": "http://journeymap.info",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "techbrew",
+                    "mysticdrew"
+                ],
+                "credits": "",
+                "logoFile": "assets/journeymap/ui/img/ico/journeymap.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": true,
+                "requiredMods": [],
+                "dependencies": [
+                    "Forge@[14.23.5.2768,)"
+                ],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "Implementation-Title": "JourneyMap",
+            "Implementation-Version": "1.12.2-5.7.1",
+            "FMLAT": "journeymap_at.cfg",
+            "Implementation-URL": "http"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "journeymap",
+                "name": "JourneyMap",
+                "version": "1.12.2-5.7.1",
+                "dependencies": "required-after:Forge@[${14.23.5.2768},)",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "canBeDeactivated": true,
+                "guiFactory": "journeymap.client.ui.dialog.OptionsGuiFactory"
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2727/70/Forgelin-1.8.3.jar",
+                "modid": "forgelin",
+                "name": "Shadowfacts' Forgelin",
+                "description": "Kotlin helper library for Forge.",
+                "version": "1.8.3",
+                "mcversion": "1.12.2",
+                "url": "https://github.com/shadowfacts/Forgelin",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "shadowfacts"
+                ],
+                "credits": "Emberwalker, for the original Forgelin",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLCorePluginContainsFMLMod": "true",
+            "FMLCorePlugin": "net.shadowfacts.forgelin.preloader.ForgelinPlugin"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": false,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "forgelin",
+                "name": "Forgelin",
+                "version": "1.8.3",
+                "dependencies": "",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "*",
+                "acceptableRemoteVersions": "*",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "net.shadowfacts.forgelin.KotlinAdapter",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/3293/318/ancientwarfare-1.12.2-2.7.0.1038.jar",
+                "modid": "ancientwarfare",
+                "name": "Ancient Warfare Core",
+                "description": "Ancient Warfare mod for Minecraft 1.7+",
+                "version": "1.12.2-2.7.0.1038",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "shadowmage45",
+                    "P3pp3rF1y"
+                ],
+                "credits": "",
+                "logoFile": "AW-logo.png",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            },
+            {
+                "modid": "ancientwarfarevehicle",
+                "name": "Ancient Warfare Vehicles",
+                "description": "Ancient Warfare Vehicles for Minecraft 1.7+",
+                "version": "1.12.2-2.7.0.1038",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "shadowmage45",
+                    "P3pp3rF1y"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "AncientWarfare",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "AncientWarfare"
+                ],
+                "dependants": []
+            },
+            {
+                "modid": "ancientwarfarestructure",
+                "name": "Ancient Warfare Structures",
+                "description": "Ancient Warfare Structures for Minecraft 1.7+",
+                "version": "1.12.2-2.7.0.1038",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "shadowmage45",
+                    "P3pp3rF1y"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "AncientWarfare",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "AncientWarfare"
+                ],
+                "dependants": []
+            },
+            {
+                "modid": "ancientwarfareautomation",
+                "name": "Ancient Warfare Automation",
+                "description": "Ancient Warfare Automation Module for Minecraft 1.7+",
+                "version": "1.12.2-2.7.0.1038",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "shadowmage45",
+                    "P3pp3rF1y"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "AncientWarfare",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "AncientWarfare"
+                ],
+                "dependants": []
+            },
+            {
+                "modid": "ancientwarfarenpc",
+                "name": "Ancient Warfare NPCs",
+                "description": "Ancient Warfare NPCs for Minecraft 1.7+",
+                "version": "1.12.2-2.7.0.1038",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "shadowmage45",
+                    "P3pp3rF1y"
+                ],
+                "credits": "",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "AncientWarfare",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [
+                    "AncientWarfare"
+                ],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "ancientwarfare_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "ancientwarfareautomation",
+                "name": "Ancient Warfare Automation",
+                "version": "1.12.2-2.7.0.1038",
+                "dependencies": "required-after:ancientwarfare;after:redstoneflux;after:buildcraftcore",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            },
+            {
+                "modid": "ancientwarfare",
+                "name": "Ancient Warfare Core",
+                "version": "1.12.2-2.7.0.1038",
+                "dependencies": "required:forge@[14.23.5.2816,);required-after:codechickenlib@[3.2.3,);",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": "",
+                "guiFactory": "net.shadowmage.ancientwarfare.core.gui.options.OptionsGuiFactory"
+            },
+            {
+                "modid": "ancientwarfarenpc",
+                "name": "Ancient Warfare NPCs",
+                "version": "1.12.2-2.7.0.1038",
+                "dependencies": "required-after:ancientwarfare",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            },
+            {
+                "modid": "ancientwarfarestructure",
+                "name": "Ancient Warfare Structures",
+                "version": "1.12.2-2.7.0.1038",
+                "dependencies": "required-after:ancientwarfare",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            },
+            {
+                "modid": "ancientwarfarevehicle",
+                "name": "Ancient Warfare Vehicles",
+                "version": "1.12.2-2.7.0.1038",
+                "dependencies": "required-after:ancientwarfare",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12.2]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "mcmodInfo": [
+            {
+                "downloadUrl": "https://media.forgecdn.net/files/2862/651/CookingForBlockheads_1.12.2-6.5.0.jar",
+                "modid": "cookingforblockheads",
+                "name": "Cooking for Blockheads",
+                "description": "Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory.",
+                "version": "6.5.0",
+                "mcversion": "1.12.2",
+                "url": "",
+                "updateUrl": "",
+                "updateJSON": "",
+                "authorList": [
+                    "BlayTheNinth"
+                ],
+                "credits": "BlayTheNinth",
+                "logoFile": "",
+                "screenshots": [],
+                "parent": "",
+                "useDependencyInformation": false,
+                "requiredMods": [],
+                "dependencies": [],
+                "dependants": []
+            }
+        ],
+        "manifest": {
+            "Manifest-Version": "1.0",
+            "FMLAT": "cookingforblockheads_at.cfg"
+        },
+        "modsToml": [],
+        "usedForgePackage": true,
+        "usedLegacyFMLPackage": false,
+        "usedMinecraftClientPackage": true,
+        "usedMinecraftPackage": true,
+        "modAnnotations": [
+            {
+                "modid": "cookingforblockheads",
+                "name": "",
+                "version": "",
+                "dependencies": "after:mousetweaks[2.8,);after:crafttweaker",
+                "useMetadata": true,
+                "clientSideOnly": false,
+                "serverSideOnly": false,
+                "acceptedMinecraftVersions": "[1.12]",
+                "acceptableRemoteVersions": "",
+                "acceptableSaveVersions": "",
+                "modLanguage": "java",
+                "modLanguageAdapter": "",
+                "value": ""
+            }
+        ]
+    }
+]
